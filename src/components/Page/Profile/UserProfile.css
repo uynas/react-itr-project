@@ -1,0 +1,27 @@
+.UserProfile{
+
+background-color: blanchedalmond;
+
+}
+.Row{
+    position:absolute;
+    right:70%;
+}
+.ChangingButton{
+    position:absolute;
+    right:50%;
+}
+.Value{
+    position:absolute;
+    left:31%;
+}
+.Avatar{
+position:absolute;
+    right:70%;
+    width:100px;
+    height:100px;
+}
+.Header{
+    position:absolute;
+    left:44%;
+}

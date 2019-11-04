@@ -1,0 +1,13 @@
+.app-wrapper {
+    grid-template-areas:  "authorization notes";
+   display:grid;
+   text-align: center;
+    grid-template-columns: 2fr 10fr ;
+ }
+.authorization {
+  grid-area:authorization;
+
+}
+.notes {
+  grid-area:notes;
+}

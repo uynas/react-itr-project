@@ -1,0 +1,12 @@
+const Note = ()=>
+{    
+    return (
+        <div className='Note' onClick={() => this.setState({value: 'X'})}>
+        <br/>
+        Text
+            <br/>
+            <br/>
+            {this.state.value}
+        </div>
+    );
+}
